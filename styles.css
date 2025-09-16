@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+.content{
+	
+	display:flex;
+	background-color:gray;
+	justify-content:center;
+	padding:10px;
+	gap:10px;
+}
+.header{
+	text-align:center;
+	background-color:#2A3439;
+	margin:0;
+	height:70px;
+	align-content:center;
+}
+article{
+	
+	background-color:white;
+	border-radius:9px;
+}
+img{
+	height:100px;
+	width:150px;
+	margin-bottom:10px
+}
+#a1{
+	width:1000px;
+	padding:10px;
+	height:200px;
+	text-align:center;
+	
+}
+#a2{
+	width:1000px;
+	padding:10px;
+	height:280px;
+	text-align:center;
+	
+}
+#a3{
+	width:1000px;
+	padding:10px;
+	height:65vh;
+	text-align:center;
+	
+}
